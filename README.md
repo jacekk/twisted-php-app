@@ -1,5 +1,11 @@
 # TwistedPhpApp
 
+### Disclaimer
+
+Some magic done with PHP. Please, do **NOT** try this at home.
+
+### Example
+
 ```php
 (new TwistedPhpApp())->sayHello('world');                   // TwistedPhpApp app says: Hello world!
 (new TwistedPhpApp('First'))->sayHello();                   // First app says: Hello!
